@@ -12,10 +12,13 @@ Semester 1
 <b>UQ Explore</b> 
 
 Sharde Nel - 43190234
-Sofia Grijalva - 43351875
-Rhys Mckenzie - 43914823
-Shireesh Shrivastava - 43799011
 
+Sofia Grijalva - 43351875
+
+Rhys Mckenzie - 43914823
+
+Shireesh Shrivastava - 43799011
+<br>
 Due Date: 5th - September - 2016
 
 
