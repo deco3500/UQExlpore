@@ -34,7 +34,7 @@ To solve this issue, we have proposed a mobile application that aims to advertis
 <h2>2.0 Concept</h2>
 
 
-<b>2.1 Outline<b/>
+<b>2.1 Outline</b>
 
 The use of mobile phones is one of the most popular forms of electronic communication. The majority of young individuals use their cellphones to organise and maintain their social networks. This is the perfect means to be tapped into as a platform to broadcast events to a person, in this case, the  students. (Campbell,2005 )
 By using this kind of app, the student will enhance their navigation experience around uni by using interactive campus maps. It will facilitate a connection with classmates and faculty, not only by helping make new friends through social media integration but by having more access to social events around campus. (TapWalk,2010).
