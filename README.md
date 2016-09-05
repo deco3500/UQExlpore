@@ -1,16 +1,6 @@
 # UQExlporeUQ Explore                                        DECO3500/7350 - Social and Mobile Computing 
   
 
-
-
-
-
-
-
-
-
-
-
 DECO3500/7350
 PROJECT PROPOSAL | Social Mobile Computing 
 
@@ -20,30 +10,17 @@ Semester 1
 
 
 
-
-
-
-
-
-
 UQ Explore 
 Sharde Nel                      43190234
-Sofia Grijalva                   43351875
-Rhys Mckenzie              43914823
-Shireesh Shrivastava           43799011
-
-
-
-
-
-
-
-
-
+Sofia Grijalva                  43351875
+Rhys Mckenzie              	43914823
+Shireesh Shrivastava           	43799011
 
 Due Date: 5th - September - 2016
-GitHub 
-GitHub: https://github.com/deco3500/UQExlpore 
+
+
+
+
 
 
 1.0 Introduction
@@ -51,8 +28,8 @@ News and information broadcasted around the University of Queensland has two maj
 To solve this issue, we have proposed a mobile application that aims to advertise local news and social events to the students of UQ in a fun and engaging way. We will introduce features such as food discounts on the campus via interactive games through the app, a notification system that notifies you of social events in your surrounding areas and maps on market day that outline locations of stalls and attractions. All of these aspects will be found under UQ Explore, where students will be able to broadcasts every side of the university from the palm of their hands. We will create a social network that caters primarily to a university body.  
 
 
-2.0 Concept
 
+2.0 Concept
 2.1 Outline
 The use of mobile phones is one of the most popular forms of electronic communication. The majority of young individuals use their cellphones to organise and maintain their social networks. This is the perfect means to be tapped into as a platform to broadcast events to a person, in this case, the  students. (Campbell,2005 )
 By using this kind of app, the student will enhance their navigation experience around uni by using interactive campus maps. It will facilitate a connection with classmates and faculty, not only by helping make new friends through social media integration but by having more access to social events around campus. (TapWalk,2010).
@@ -68,29 +45,26 @@ UQ Explore works on ideas closely related to both the Hungry Jacks and Meetup ap
 An example of a social networking app that has been successfully implemented, is the one developed by the University of South Wales (2015). The students can chat with surrounding individuals, meet people with mutual interests, find students or tutors to help them with assignments and projects and all round keep connected.
 
 
-3.0 Team 
 
+3.0 Team 
 3.1 Team roles and responsibilities
   
-
-	Sofia Grijalva | 43351875
+Sofia Grijalva | 43351875
 Role: Content and Investigator  
 Responsible for finding evidence and new technologies that support the creation of the app. Create team discussion and brainstorming.
 	  
-
-	Rhys McKenzie| 43914823
+Rhys McKenzie| 43914823
 Role: Back end and information Systems 
 Responsible for creating and managing any back end functionality and database design for the application. 
 	  
-
-	Shardé Nel | 43190234
+Shardé Nel | 43190234
 Roel:  Team Leader and Project Manager
 Responsible for the design and any front end development for the application. This includes the logistics side, equipment, meetings, transport, etc;
-	  
 
-	Shireesh Shrivastava| 43799011
+Shireesh Shrivastava| 43799011
 Role: Business Analyst
 Responsible for the business approach to the development of the application. If team leader isn’t present, responsible for logistics such equipment, meetings, transport, etc.
+
 
 3.2 How will we work together 
 We will model our work ethic after the Scrum Methodology. We will have sprints every two weeks and ‘daily’ scrums twice a week.  In this time will delegate new roles and revise current work being done, as well as discuss improvements, resolve any difficulties within the scope and work to resolve concerns outside our control. We will utilize the scrum values of Focus, Courage, Openness, Commitment and Respect.  We will base the sprint workload on the outlined discussed in section 5 below. 
@@ -102,16 +76,14 @@ Major decisions will be decided upon with a vote from the team. If there is a hu
 Firstly, we will discuss with that particular team member if they are capable of doing and/or happy with the work they are assigned and possibly change that role to benefit the team. If further poor performance or conflict occurs, we will seek out tutor help and input.
 
 
-4.0 Communication  
 
+4.0 Communication  
 4.1 Meet 
 Friday during practical. Additionally, once a week on Tuesday at 5pm in GP South room 221
-
 
 4.2 Communication 
 We will communicate through our slack channel: https://deco3500.slack.com/messages/uqexplore/   as well as our facebook group page and email. 
 A Google Drive folder will be used to store and share files. Folder’s will be named after each piece of assessment, and any contents will be named according to what it is.
-
 
 4.2 Social Platforms 
 Facebook has been chosen as our platform of choice because of its accessibility and it is easy to be notified, as well as allows all team members to message each other and upload files. We will also use slack as it is a tool recommended by the course and allows for communication between group members. Google drive allows for multiple edits on the one file at the same time, so is useful for collaborative reports and documents. 
@@ -119,7 +91,6 @@ Facebook has been chosen as our platform of choice because of its accessibility 
 
 
 5.0 Plan
-
 5.1 
 The “UQ Explore” project worksheet has been divided into seven phases, with tasks, deliverables and milestones outlined for each phase. These tasks will be monitored and measured based on the five parameters.
 1. Plan Start – Start week for the project e.g. “1” denotes the beginning of the week for that semester.
@@ -128,7 +99,6 @@ The “UQ Explore” project worksheet has been divided into seven phases, with 
 4. Actual Duration – It denotes total time taken to the particular task to get completed.
 5. Percent Complete – It denotes that how much work completed during that assigned week. 
 The worksheet has five labels which help to indicate and measure the actual status of the project. These labels are “Plan”, “Actual”, “% Complete”, “Actual (beyond plan)” and “%Complete Beyond Plan”.
-
 
 The following task have been identified as crucial milestones for the brief and mentioned in the Gantt Chart bellow.
 * Weekly meeting at Tuesday
@@ -151,25 +121,6 @@ The following task have been identified as crucial milestones for the brief and 
 
 
 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 5.2 Technologies 
 Our initial take on how we are going to build a prototype that mimics the features of UQ Explore is by building a web application using HTML, CSS and Javascript.  We can also utilise PHP to build the login page and if we find it necessary, implement a scaled down database that will hold the ID’s of the students. We will also use google maps API to mimic the interactive map for UQ market days. Different technologies will be used as a result of the challenges we face during build. 
 
@@ -183,55 +134,8 @@ Our initial take on how we are going to build a prototype that mimics the featur
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 7.0 Bibliography 
 
-
 TapWalk Mobile App Features, 2016, TapWalk [Online] Avaialbe at http://tapwalk.com/ Date accessed: 1/09/2016
-
 
 Uni-Verse and UNSW Soical apps, 2016, Australia UNSW [Online] Avaialbe at https://student.unsw.edu.au/universe Date accessed: 1/09/2016
