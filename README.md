@@ -23,7 +23,7 @@ Due Date: 5th - September - 2016
 
 
 
-1.0 Introduction
+<b>1.0 Introduction</b>
 
 News and information broadcasted around the University of Queensland has two major flaws. There is a lot of it, and only a small percentage of that information actually reaches its intended marketed audience. There is not enough awareness of UQ social events and many things on offer that may be of interest to students get overlooked. With 50 000 potential individuals to connect and inform, broad UQ Union emails send out at the end of each week simply isn’t enough. 
 To solve this issue, we have proposed a mobile application that aims to advertise local news and social events to the students of UQ in a fun and engaging way. We will introduce features such as food discounts on the campus via interactive games through the app, a notification system that notifies you of social events in your surrounding areas and maps on market day that outline locations of stalls and attractions. All of these aspects will be found under UQ Explore, where students will be able to broadcasts every side of the university from the palm of their hands. We will create a social network that caters primarily to a university body.  
