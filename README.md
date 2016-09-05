@@ -9,12 +9,12 @@ Semester 1
 
 
 
-
 UQ Explore 
-Sharde Nel                      43190234
-Sofia Grijalva                  43351875
-Rhys Mckenzie              	43914823
-Shireesh Shrivastava           	43799011
+
+Sharde Nel - 43190234
+Sofia Grijalva - 43351875
+Rhys Mckenzie - 43914823
+Shireesh Shrivastava - 43799011
 
 Due Date: 5th - September - 2016
 
@@ -29,7 +29,9 @@ To solve this issue, we have proposed a mobile application that aims to advertis
 
 
 
+
 2.0 Concept
+
 2.1 Outline
 The use of mobile phones is one of the most popular forms of electronic communication. The majority of young individuals use their cellphones to organise and maintain their social networks. This is the perfect means to be tapped into as a platform to broadcast events to a person, in this case, the  students. (Campbell,2005 )
 By using this kind of app, the student will enhance their navigation experience around uni by using interactive campus maps. It will facilitate a connection with classmates and faculty, not only by helping make new friends through social media integration but by having more access to social events around campus. (TapWalk,2010).
@@ -46,7 +48,9 @@ An example of a social networking app that has been successfully implemented, is
 
 
 
+
 3.0 Team 
+
 3.1 Team roles and responsibilities
   
 Sofia Grijalva | 43351875
@@ -77,6 +81,7 @@ Firstly, we will discuss with that particular team member if they are capable of
 
 
 
+
 4.0 Communication  
 4.1 Meet 
 Friday during practical. Additionally, once a week on Tuesday at 5pm in GP South room 221
@@ -90,7 +95,9 @@ Facebook has been chosen as our platform of choice because of its accessibility 
 
 
 
+
 5.0 Plan
+
 5.1 
 The “UQ Explore” project worksheet has been divided into seven phases, with tasks, deliverables and milestones outlined for each phase. These tasks will be monitored and measured based on the five parameters.
 1. Plan Start – Start week for the project e.g. “1” denotes the beginning of the week for that semester.
@@ -123,6 +130,7 @@ The following task have been identified as crucial milestones for the brief and 
 
 5.2 Technologies 
 Our initial take on how we are going to build a prototype that mimics the features of UQ Explore is by building a web application using HTML, CSS and Javascript.  We can also utilise PHP to build the login page and if we find it necessary, implement a scaled down database that will hold the ID’s of the students. We will also use google maps API to mimic the interactive map for UQ market days. Different technologies will be used as a result of the challenges we face during build. 
+
 
 
 6.0 Tags 
