@@ -1,15 +1,15 @@
 # UQExlporeUQ Explore                                        DECO3500/7350 - Social and Mobile Computing 
   
 
-DECO3500/7350
-PROJECT PROPOSAL | Social Mobile Computing 
+<b>DECO3500/7350
+PROJECT PROPOSAL | Social Mobile Computing </b>
 
 
 Semester 1
 
 
 
-UQ Explore 
+<b>UQ Explore</b> 
 
 Sharde Nel - 43190234
 Sofia Grijalva - 43351875
@@ -117,7 +117,7 @@ Facebook has been chosen as our platform of choice because of its accessibility 
 <h2>5.0 Plan</h2>
 
 
-<b>5.1 </b>
+<b>5.1 Plan Breakdown</b>
 
 The “UQ Explore” project worksheet has been divided into seven phases, with tasks, deliverables and milestones outlined for each phase. These tasks will be monitored and measured based on the five parameters.
 1. Plan Start – Start week for the project e.g. “1” denotes the beginning of the week for that semester.
