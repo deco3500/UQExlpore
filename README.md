@@ -23,7 +23,7 @@ Due Date: 5th - September - 2016
 
 
 
-<b>1.0 Introduction</b>
+<h1>1.0 Introduction</h1>
 
 News and information broadcasted around the University of Queensland has two major flaws. There is a lot of it, and only a small percentage of that information actually reaches its intended marketed audience. There is not enough awareness of UQ social events and many things on offer that may be of interest to students get overlooked. With 50 000 potential individuals to connect and inform, broad UQ Union emails send out at the end of each week simply isn’t enough. 
 To solve this issue, we have proposed a mobile application that aims to advertise local news and social events to the students of UQ in a fun and engaging way. We will introduce features such as food discounts on the campus via interactive games through the app, a notification system that notifies you of social events in your surrounding areas and maps on market day that outline locations of stalls and attractions. All of these aspects will be found under UQ Explore, where students will be able to broadcasts every side of the university from the palm of their hands. We will create a social network that caters primarily to a university body.  
@@ -31,7 +31,7 @@ To solve this issue, we have proposed a mobile application that aims to advertis
 
 
 
-2.0 Concept
+<h2>2.0 Concept</h2>
 
 
 2.1 Outline
@@ -57,7 +57,7 @@ An example of a social networking app that has been successfully implemented, is
 
 
 
-3.0 Team 
+<b>3.0 Team </b>
 
 3.1 Team roles and responsibilities
   
@@ -95,7 +95,7 @@ Firstly, we will discuss with that particular team member if they are capable of
 
 
 
-4.0 Communication  
+<b>4.0 Communication</b>  
 
 
 4.1 Meet 
@@ -114,7 +114,7 @@ Facebook has been chosen as our platform of choice because of its accessibility 
 
 
 
-5.0 Plan
+<b>5.0 Plan</b>
 
 
 5.1 
@@ -155,7 +155,7 @@ Our initial take on how we are going to build a prototype that mimics the featur
 
 
 
-6.0 Tags 
+<b>6.0 Tags </b>
 
 #Awareness
 #UQCampusNews
@@ -165,7 +165,7 @@ Our initial take on how we are going to build a prototype that mimics the featur
 
 
 
-7.0 Bibliography 
+<b>7.0 Bibliography </b>
 
 TapWalk Mobile App Features, 2016, TapWalk [Online] Avaialbe at http://tapwalk.com/ Date accessed: 1/09/2016
 
