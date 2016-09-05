@@ -1,4 +1,4 @@
-# UQExlporeUQ Explore                                        DECO3500/7350 - Social and Mobile Computing 
+#UQExlpore                                        DECO3500/7350 - Social and Mobile Computing 
   
 
 <b>DECO3500/7350
