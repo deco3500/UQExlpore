@@ -37,8 +37,8 @@ We chose UQ because we all unanimously felt that local campus news was abundant 
 - Societies and clubs news<br>
 - Faculties news<br>
 - Students events<br>
-
 <p>
+
 Before starting to work on the design we had to choose the type of news that we will show. We decided to focus primarily on the ‘student’s social life’ aspect in place of the academic aspect, so information provided by clubs/societies and general uni events were planned on being displayed in the app. <br>
 The design started with a brainstorm of the different features the app could have, however initially we came up with too many features and had to cull it back for the sake of time and the quality of the app. After some discussion we decide to focus on 3 main features: <br>
 - Sign Up Section (authentication)<br>
@@ -79,43 +79,42 @@ Link to 3:[https://drive.google.com/open?id=0B-HOtvAkRuyHM2llajJOcGdxaUU]
 
 <h2>What each Team Member did:</h2>
 <b> Sharde: </b>
-Created the final prototype, all of the mockups and functionality hotspots in Invisiton.
-Made the promotional website.  
-User tested the 3 types of games to choose one for the rewards section. 
-Created the mockups used for the first round of reward testing (The Spin Wheel, The boost page and QR codes).
-Help in Github documentation and reports
-Assist to team meetings to elaborate documentation or practice stand ups.
+Created the final prototype, all of the mockups and functionality hotspots in Invisiton.<br>
+Made the promotional website.  <br>
+User tested the 3 types of games to choose one for the rewards section. <br>
+Created the mockups used for the first round of reward testing (The Spin Wheel, The boost page and QR codes).<br>
+Help in Github documentation and reports<br>
+Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
 <b>Rhys: </b>
-Created mock ups for the scrapped ‘Customise Your Preferences’ screen and the ‘Feed’ page.
-User tested the preferences that users would like to be displayed (though through further user testing the idea was scrapped
-Researched ways we could still tailor the experience for the users without explicitly asking for their preferences
-Assisted with the design behind the final prototype for the ‘Feed’ screen
-Help in Github documentation 
-Assist to team meetings to elaborate documentation or practice stand ups.
+Created mock ups for the scrapped ‘Customise Your Preferences’ screen and the ‘Feed’ page.<br>
+User tested the preferences that users would like to be displayed (though through further user testing the idea was scrapped. <br>
+Researched ways we could still tailor the experience for the users without explicitly asking for their preferences<br>
+Assisted with the design behind the final prototype for the ‘Feed’ screen. <br>
+Help in Github documentation. <br>
+Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
 
 <b>Shireesh: </b>
-The initial project idea was mine and then discussed with the team to further enhance this idea.
-User authentication feature development, scrapped mock ups and personas.
-On campus user acceptance testing for authentication and confirmation code feature.
-Issue creation in Github and communicate and discuss with team on the progress before closure.
-Worked with team members in sprint meeting for standups and presentation.
-Business development of this application (UQ and UQU).
-Review and follow-ups including team discussion over documentation preparation.
-Involvement in aligning the course expectation with project requirements in team discussion which includes Tutors Feedback, Lecturer feedback, class notes, and Course objective of Social and Mobile computing.
+The initial project idea was mine and then discussed with the team to further enhance this idea.<br>
+User authentication feature development, scrapped mock ups and personas.<br>
+On campus user acceptance testing for authentication and confirmation code feature.<br>
+Business development of this application (UQ and UQU).<br>
+Help in Github documentation. <br>
+Assist to team meetings to elaborate documentation or practice stand ups.<br>
+
 
 
 <b>Sofia: </b>
-Created mockups for user testing of reward section. Link[https://www.fluidui.com/editor/live/preview/p_JArmINJaMdADa9nT7nDfDdfOuqW7S8e2.1473817524975]
-Create QR Codes and Aurasma development for testing and  prototype.
-User tested  the 3 types of games to choose one for the rewards section. 
-Create mockups for scrapped rewards section(welcome page/tutorial).
-Create scenarios and do storyboards of them.
-Help in Github documentation 
-Assist to team meetings to elaborate documentation or practice stand ups.
+Created mockups for user testing of reward section.<br> Link[https://www.fluidui.com/editor/live/preview/p_JArmINJaMdADa9nT7nDfDdfOuqW7S8e2.1473817524975]
+Create QR Codes and Aurasma development for testing and  prototype.<br>
+User tested  the 3 types of games to choose one for the rewards section. <br>
+Create mockups for scrapped rewards section(welcome page/tutorial).<br>
+Create scenarios and do storyboards of them.<br>
+Help in Github documentation. <br>
+Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
 <br>
