@@ -22,7 +22,7 @@ Shireesh Shrivastava - 43799011
 <h2>Promotional Material:</h2> Our promotional material is in the form of a website, showcasing the highlights of our application and strong selling points. The files for our website can be found on our Github page. They need to be downloaded to be viewed. 
 
 
-<h2>Link to the prototype:</h2> https://invis.io/Y78LVJQME 
+<h2>Link to the prototype:</h2> https://invis.io/Y78LVJQME <br>
 Our prototype is in the form of an Invision file. The final version can be viewed by the link supplied above. To use the prototype, click the hot spots on each page, and if it is a function we covered, it will take you to the corresponding page.  
 
 
@@ -37,8 +37,9 @@ We chose UQ because we all unanimously felt that local campus news was abundant 
 - Societies and clubs news<br>
 - Faculties news<br>
 - Students events<br>
+<br>
 <p>
-
+<br>
 Before starting to work on the design we had to choose the type of news that we will show. We decided to focus primarily on the ‘student’s social life’ aspect in place of the academic aspect, so information provided by clubs/societies and general uni events were planned on being displayed in the app. <br>
 The design started with a brainstorm of the different features the app could have, however initially we came up with too many features and had to cull it back for the sake of time and the quality of the app. After some discussion we decide to focus on 3 main features: <br>
 - Sign Up Section (authentication)<br>
@@ -78,7 +79,7 @@ Link to 3:[https://drive.google.com/open?id=0B-HOtvAkRuyHM2llajJOcGdxaUU]
 
 
 <h2>What each Team Member did:</h2>
-<b> Sharde: </b>
+<b> Sharde: </b><br>
 Created the final prototype, all of the mockups and functionality hotspots in Invisiton.<br>
 Made the promotional website.  <br>
 User tested the 3 types of games to choose one for the rewards section. <br>
@@ -87,7 +88,7 @@ Help in Github documentation and reports<br>
 Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
-<b>Rhys: </b>
+<b>Rhys: </b><br>
 Created mock ups for the scrapped ‘Customise Your Preferences’ screen and the ‘Feed’ page.<br>
 User tested the preferences that users would like to be displayed (though through further user testing the idea was scrapped. <br>
 Researched ways we could still tailor the experience for the users without explicitly asking for their preferences<br>
@@ -97,7 +98,7 @@ Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
 
-<b>Shireesh: </b>
+<b>Shireesh: </b><br>
 The initial project idea was mine and then discussed with the team to further enhance this idea.<br>
 User authentication feature development, scrapped mock ups and personas.<br>
 On campus user acceptance testing for authentication and confirmation code feature.<br>
@@ -107,7 +108,7 @@ Assist to team meetings to elaborate documentation or practice stand ups.<br>
 
 
 
-<b>Sofia: </b>
+<b>Sofia: </b><br>
 Created mockups for user testing of reward section.<br> Link[https://www.fluidui.com/editor/live/preview/p_JArmINJaMdADa9nT7nDfDdfOuqW7S8e2.1473817524975]
 Create QR Codes and Aurasma development for testing and  prototype.<br>
 User tested  the 3 types of games to choose one for the rewards section. <br>
