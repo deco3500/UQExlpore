@@ -37,7 +37,6 @@ We chose UQ because we all unanimously felt that local campus news was abundant 
 - Societies and clubs news<br>
 - Faculties news<br>
 - Students events<br>
-<br>
 <p>
 <br>
 Before starting to work on the design we had to choose the type of news that we will show. We decided to focus primarily on the ‘student’s social life’ aspect in place of the academic aspect, so information provided by clubs/societies and general uni events were planned on being displayed in the app. <br>
