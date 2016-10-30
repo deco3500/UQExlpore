@@ -16,57 +16,57 @@ Shireesh Shrivastava - 43799011
 
 
 
-<h2>Final Report</h2>
+<h1>Final Report</h1>
 
 
-<h1>Promotional Material:</h1> Our promotional material is in the form of a website, showcasing the highlights of our application and strong selling points. The files for our website can be found on our Github page. They need to be downloaded to be viewed. 
+<h2>Promotional Material:</h2> Our promotional material is in the form of a website, showcasing the highlights of our application and strong selling points. The files for our website can be found on our Github page. They need to be downloaded to be viewed. 
 
 
-<h1>Link to the prototype:</h1> https://invis.io/Y78LVJQME 
+<h2>Link to the prototype:</h2> https://invis.io/Y78LVJQME 
 Our prototype is in the form of an Invision file. The final version can be viewed by the link supplied above. To use the prototype, click the hot spots on each page, and if it is a function we covered, it will take you to the corresponding page.  
 
 
-<h1>Summary:</h1> UQ Explore aims to address the lack of ways users can get local news delivered conveniently to them while also presenting itself as interesting and entertaining. We achieved this by creating a mobile app that allows users to quickly and easily access their local news while also enabling users to explore fun and social activities. 
+<h2>Summary:</h2> UQ Explore aims to address the lack of ways users can get local news delivered conveniently to them while also presenting itself as interesting and entertaining. We achieved this by creating a mobile app that allows users to quickly and easily access their local news while also enabling users to explore fun and social activities. 
 We chose UQ because we all unanimously felt that local campus news was abundant but means to access it was not. However, we didn’t want to create an environment where emails from the UQ Union were the only way that students could receive local news as these emails do not appeal to the vast majority of students. We all felt that the academic news is thoroughly covered through official UQ and faculty announcements so the decision was made to focus more on Clubs & Societies and Food & Retail news.
 
 
-<h1>Process:</h1> To tackle the problem of presenting campus news to students and staff in a more engaging way, we decide to create a social/mobile app that permit the students connect between them, share and find events.
-First we thought of the possible news the university may produce:
-General information(Holidays, Security, General changes, others)
-General events(Market Day, Conferences, others)
-Societies and clubs news
-Faculties news
-Students events
+<h2>Process:</h2> To tackle the problem of presenting campus news to students and staff in a more engaging way, we decide to create a social/mobile app that permit the students connect between them, share and find events.<br>
+- First we thought of the possible news the university may produce:<br>
+- General information(Holidays, Security, General changes, others)<br>
+- General events(Market Day, Conferences, others)<br>
+- Societies and clubs news<br>
+- Faculties news<br>
+- Students events<br>
+
+<p>
+Before starting to work on the design we had to choose the type of news that we will show. We decided to focus primarily on the ‘student’s social life’ aspect in place of the academic aspect, so information provided by clubs/societies and general uni events were planned on being displayed in the app. <br>
+The design started with a brainstorm of the different features the app could have, however initially we came up with too many features and had to cull it back for the sake of time and the quality of the app. After some discussion we decide to focus on 3 main features: <br>
+- Sign Up Section (authentication)<br>
+- User interests to personalize news feed <br>
+- Game section (Gamification)<br>
 
 
-Before starting to work on the design we had to choose the type of news that we will show. We decided to focus primarily on the ‘student’s social life’ aspect in place of the academic aspect, so information provided by clubs/societies and general uni events were planned on being displayed in the app. 
-The design started with a brainstorm of the different features the app could have, however initially we came up with too many features and had to cull it back for the sake of time and the quality of the app. After some discussion we decide to focus on 3 main features: 
-Sign Up Section (authentication)
-User interests to personalize news feed
-Game section (Gamification)
-
-
-<h1>Sign Up section:</h1>
+<h2>Sign Up section:</h2>
 Since the application focus on the university local news thus the app’s audience are UQ students, to Sign Up it’s necessary to have a student or staff UQ id, email, and a password. In the beginning there were a few ideas of how this could be done, for example using student id or student email, also to authenticate the user a code was going to be sent as either a text message or an email. While working on the  design for the initial login page we underwent user testing with UQ Students on campus. During the user testing many users voiced their concerns about privacy and security, especial where their student number was concerned. Another concern was that sending an SMS required the mobile number of the user and most were hesitant to hand them out to an unfamiliar application. Users also mentioned that the usage of multiple forms of UQ identification (student number and UQ email) seemed both unnecessary and unsafe. After evaluating the feedback gathered from the user testing the team decide that the combination of a UQ email and confirmation code, sent to the aforementioned email address, would be both the safest and most efficient options. 
-
+<p>
 
 Furthermore this combination allows users to be uniquely identifiable in the case that their friends search for them and the removal of anonymity reduces the chances of users spamming within the application. Also during user testing a few users raised a concern that they might want to experience the application before committing their details to the application. To solve this issue we decided that the login/sign up screen should have a skippable option so that user can explore the application without having to hand over any personal information. We also felt that users who don’t have an account with UQ Explore shouldn’t have full functionality within the application otherwise this removes the need for a user to create an account in the first place, so to counter this we decided that the user will only be able to access a limited number of features before being prompted to log in or sign up..
 
 
-<h1>User’s interests /News Feed section:</h1>
+<h2>User’s interests /News Feed section:</h2>
 This section originally was split in two that consisted of a screen where the user would select their interests, and then a news feed screen that would be at the core of UQ Explore. In the beginning we thought to display a list of generalised interest categories (ex. Sports, Food, Music, etc.) that were gathered from a survey sent out to potential users. However after some test sessions and feedback from tutors, we realize that some users would find this tedious and unnecessary so a ‘skip’ option was added. We also found that users felt that having the  customisation screen made the entire application feel dated, so we began to research ways we could still tailor the experience for individual users without having the users explicitly state what it is they wanted to see more of. Through this research of new technologies, we found out that some other applications (Facebook, Instagram, etc.) personalise what appears on your feed through an algorithm that tracks what posts you like and will present types of posts similar to what you like often. We then decided that this could be implemented in a similar way by tracking what events users 'check in' to often and presenting them with events or articles with similar tags. The tags feature is also used when users search for articles as the search function will scan the tags of articles and display them back to the user, allowing users to search for more articles within the same topic.
 
 
-
-
-<h1>Rewards Section:</h1>
+<h2>Rewards Section:</h2>
 In this section we decided to implement a game that gives students access to deals and discounts in some food outlets of the campus, enticing them to continue using UQ Explore. To decide how we would go about implementing a game/rewards system we did user testing by presenting users with 3 different ways to play. Our participants were students from a DECO1800 tutorial. We showed them an augmented reality based game, QR Codes system, and a 'spin the wheel' game.
 For the augmented reality game, we used Aurasma to test the camera function and used a poster from Boost as the target image. A riddle was presented to the user to help them find the ‘hidden coupon’ in the poster. Most of them preferred the augmented reality game, with the 'spin the wheel' concept being a second choice for most users, however the QR codes concept was mostly ignored.
-You can see some pictures of the user testing here:
+You can see some pictures of the user testing here:<br>
 [https://drive.google.com/open?id=0B-HOtvAkRuyHTjdZdlJvZlJYRnc]
-After the users tried the 3 methods, the users completed a survey:
+After the users tried the 3 methods, the users completed a survey:<br>
 [https://goo.gl/forms/YS6AvhM12p5UJMY33]
-Scenarios
+<br>
+
+<h2>Scenarios</h2>
 Link to 1:[https://drive.google.com/open?id=0B-HOtvAkRuyHSzdBRWFBaDRSTlU]
 
 
@@ -77,32 +77,7 @@ Link to 3:[https://drive.google.com/open?id=0B-HOtvAkRuyHM2llajJOcGdxaUU]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1>What each Team Member did:</h1>
+<h2>What each Team Member did:</h2>
 <b> Sharde: </b>
 Created the final prototype, all of the mockups and functionality hotspots in Invisiton.
 Made the promotional website.  
@@ -119,9 +94,6 @@ Researched ways we could still tailor the experience for the users without expli
 Assisted with the design behind the final prototype for the ‘Feed’ screen
 Help in Github documentation 
 Assist to team meetings to elaborate documentation or practice stand ups.
-
-
-
 
 
 
@@ -146,7 +118,7 @@ Help in Github documentation
 Assist to team meetings to elaborate documentation or practice stand ups.
 
 
-
+<br>
 
 						
 
@@ -154,7 +126,7 @@ Assist to team meetings to elaborate documentation or practice stand ups.
 
 
 
-
+<br>
 
 #UQExlpore                                        DECO3500/7350 - Social and Mobile Computing 
   
